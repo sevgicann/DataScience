@@ -1,1 +1,1 @@
-print("Hello Data Science Course")
+print("Hello Data Science Courses")
